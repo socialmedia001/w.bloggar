@@ -1,6 +1,19 @@
-# w.bloggar
+किसान: देश की रीढ़
 
-A Universal Weblog Editor for Windows
+भारत एक कृषि प्रधान देश है, जहाँ लगभग 70% आबादी ग्रामीण क्षेत्रों में रहती है और अपनी आजीविका के लिए खेती पर निर्भर है। किसान हमारे देश की रीढ़ हैं। वे खेतों में मेहनत करके अन्न, फल, सब्ज़ियाँ, दालें और अन्य फसलें उगाते हैं, जिससे देश का हर नागरिक दो समय का भोजन प्राप्त कर पाता है। किसान का जीवन कठिनाइयों से भरा होता है, फिर भी वह अपनी ज़िम्मेदारी को पूरी निष्ठा और परिश्रम से निभाता है।
+
+किसान सुबह सूरज निकलने से पहले ही खेतों में पहुँच जाता है। कभी धूप की तपिश, तो कभी ठंड की सर्द हवाएँ और कभी बरसात का पानी—ये सब सहते हुए भी वह अपनी फसलों की देखभाल करता है। फसल बोने से लेकर काटने तक की प्रक्रिया आसान नहीं होती। पहले भूमि तैयार करनी पड़ती है, फिर बीज बोना, सिंचाई करना, खाद देना, कीटों से बचाव करना और अंत में कटाई करना। यह सब काम मेहनत, समय और पैसों की मांग करता है।
+
+आज के समय में तकनीक ने खेती में कई सुविधाएँ दी हैं। ट्रैक्टर, हार्वेस्टर, आधुनिक सिंचाई प्रणाली और उन्नत बीजों के प्रयोग से किसान का काम कुछ आसान हुआ है। लेकिन फिर भी किसानों को कई चुनौतियों का सामना करना पड़ता है, जैसे—मौसम का अनिश्चित होना, फसलों का उचित दाम न मिलना, कर्ज का बोझ और बाज़ार में दलालों का दबदबा। इन समस्याओं के कारण कई बार किसानों को आर्थिक संकट झेलना पड़ता है।
+
+सरकार और समाज दोनों की ज़िम्मेदारी है कि वे किसानों की समस्याओं का समाधान करें। सही मूल्य पर फसल खरीद, सस्ती खाद और बीज की उपलब्धता, आधुनिक तकनीक का प्रशिक्षण और कर्जमुक्ति जैसी योजनाएँ किसानों को सशक्त बना सकती हैं। इसके अलावा हमें भी किसानों का सम्मान करना चाहिए, क्योंकि उनके बिना हमारे जीवन की कल्पना अधूरी है।
+
+किसान केवल अन्नदाता ही नहीं, बल्कि राष्ट्रनिर्माता भी हैं। वे हमारी थाली तक भोजन पहुँचाने के लिए अपनी नींद, आराम और कभी-कभी जीवन तक की परवाह नहीं करते। ऐसे में हमें भी उनकी मेहनत का मूल्य समझना चाहिए। जब तक किसान खुशहाल नहीं होगा, तब तक देश का विकास अधूरा रहेगा। इसलिए "जय किसान" कहना केवल नारा नहीं, बल्कि हमारे कृतज्ञता का प्रतीक होना चाहिए।
+
+
+---
+
+क्या आप चाहेंगे कि मैं इसे ब्लॉग फॉर्मेट (शीर्षक, उपशीर्षक, पैराग्राफ, SEO फ्रेंडली) में भी लिख दूँ? या किसी खास फसल या खेती के तरीके पर ब्लॉग बनाऊँ
 
 ![w.bloggar](http://lvcabral.com/images/wbloggar-github.gif)
 
@@ -65,17 +78,7 @@ To build the source code, you should open the project file **wbloggar.vbp** usin
 - **ActiveCbo.ocx** - [RainDrops Active Combo v1.3](https://github.com/lvcabral/ActivePack) (freeware by Marcelo Lv Cabral)
 - **ActiveForm.ocx** - [RainDrops Active Form v1.4](https://github.com/lvcabral/ActivePack) (freeware by Marcelo Lv Cabral)
 - **ActiveXMLReg.dll** - XML Based Registry v1.0 (freeware by R. Glenn Scott)
-- **DTPicker.ocx** - Date Time Picker Control v1.0 (freeware by Jonas Woltz)
-- **SSubTmr6.dll** - [VBAccelerator Subclassing Control v1.1](http://www.vbaccelerator.com/codelib/ssubtmr/ssubtmr.htm) (freeware by Steve McMahon)
-
-All these dependency binaries are available at the folder named "Libs" inside the portable package that you can download from the [Release page](https://github.com/lvcabral/w.bloggar/releases), however the two commercial components (ActiveBar and SizerONe) requires a licensed version in order to be used on Visual Basic 6 development environment, and I can't distribute those licenses for obvious reasons.
-
-## The Author
-
-- My website is [https://lvcabral.com](https://lvcabral.com)
-- My twitter is [@lvcabral](https://twitter.com/twitter)
-- My podcast is [PODebug Podcast](http://podebug.com)
-- Check my other [GitHub repositories](https://github.com/lvcabral)
+- **DTPicker.ocx** - Date Time Picker Control v1.0 (freeware by Jonas W
 
 ## The License
 
